@@ -1,0 +1,21 @@
+h1 {
+  font-size: 42px;
+  color: blue;
+}
+
+h2 {
+  font-family: impact;
+}
+
+a {
+  padding: 10px 16px;
+  text-align: center;
+  text-decoration: none;
+  border-style: solid;
+  border-width: 2px;
+  color: black;
+}
+
+a:hover { background-color: #a1d1ff; }
+a:active { background-color: cyan; }
+a:visited { color: purple; }

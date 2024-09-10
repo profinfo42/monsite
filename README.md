@@ -1,4 +1,4 @@
 Mon super site!!!
 =================
 
-Un site vraiment dingue.
+Un site vraiment fantastique!
